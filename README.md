@@ -1,4 +1,4 @@
-Jeu Fractum par Swann Protais
+Jeu Fractum Anima par Swann Protais
 
 Vous trouverez plusieurs dossier:
 -Videos : contenant des vidéo du jeu en lui même (elles ne seront pas visible depuis git hub, il faudra cliquer sur "view raw")
