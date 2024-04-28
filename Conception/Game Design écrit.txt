@@ -1,0 +1,84 @@
+Ce jeu fonctionne avec un système d'âmes, chacun offrant un pouvoir lui étant propre. Il est possible de les utiliser seules ou de les combiner.
+
+Seules, elles offrent:
+-Rouge : soin & métamorphose
+-Jaune : Bouclier et parades
+-Orange : rayon destructeur
+-Azure : esquive et téléportation
+-brune : Immobilisation & fracassement
+-pourpre : Asservissement des faibles
+-rose : onde de choc, double saut
+-verte : équipement magique, armes, armures etcourse rapide
+-bleue : sauvagerder et charger notre position
+
+Combo:
+-Rouge+Jaune :parade réussie soigne un pourcentage de pv plus élevé
+-Rouge+Orange : Aggrandit la tête du héros pour lui faire cracher un rayon bien plus puisant
+-Rouge+Azure :lance un soin dans un portail qui offrira une régénération sur la durée au lieu d'un soin instantanné
+-Rouge+brune :transformation en cube qui s'écrasera au sol
+-Rouge+pourpre :permet de se transformer en un ennemi de la salle et d'asservir tous les homologues
+-Rouge+rose :Repousse tous les ennemis lors d'un soin
+-Rouge+verte :chaque soin offre une armure
+-Rouge+bleue :le retour dans le temps conserve aussi les pv initiaux
+
+-Jaune+Orange:Une parade emet un rayon de chaque côté
+-Jaune+Azure:La parade va désarmer les ennemis, résuisant définitivement leurs dégâts
+-Jaune+brune:Une parade immobilise les ennemis proches et les fracasse au sol
+-Jaune+pourpre:Possession instantannée quelque soit le pourcentage de vie
+-Jaune+rose:parer emet une onde de choc qui expulse tous les énemis proches
+-Jaune+verte:parer offre une armure
+-Jaune+bleue:le retour dans le temps offre un bouclier temporaire à vultos
+
+-Orange+Azure:peut créer une pluie de rayon via un portail
+-Orange+brune : Toucher un ennemie avec un rayon le fracasse plusieurs fois au sol
+-Orange+pourpre: tout ennemi touché par un rayon ayant 50% pv ou moins est instantannément possédé
+-Orange+rose :Permet à Vultos de s'élancer à pleine vitesse dans la direction souhaitée, infligeant de grands dégâts
+-Orange+verte :créé une arme à distance tirant de petits rayon à fort débit
+-Orange+bleue :créé un puissant rayon entre la destination et le point de départ lors d'un retour dans le temps
+
+-Azure+brune :Envoie un portail quelques mètres devant Vultos attirant tous les ennemis en son centre durant quelques secondes
+-Azure+pourpre: Une esquive 
+-Azure+rose:jète un portail en face de Vultos qui explose au bout de 2 secondes, si un 2ème portail est lancé avant ces 2 secondes et entre en contact avec le premier, l'explosion sera plus puissante et repoussera les ennemies
+-Azure+verte:créé un portail qui va automatiquement prendre pour cible l'ennemi le plus proche et le cribler de projectiles
+-Azure+bleue:Permet une fois par minute de faire une esquive magique nous plongeant dans un monde parallèle où notre personnage ne peut plus infliger ou subir de dégat
+
+
+-brune+pourpre:Lorsque des possédés reprennent la raison, ils sont balancé sur d'autres ennemis
+-brune+rose:Lorsqu'un ennemi est fracassé au sol, il libère une onde de choc envoyant les ennemis en l'air
+-brune+verte:Fait sortir des lames de terre sur une certaine distance
+-brune+bleue:Lors d'un retour dans le temps, tous les ennemis sur le trajet sont fracassés au sol
+
+-pourpre+rose:A la fin d'une possession, le crâne de l'ennemie explose si ses pv sont sous un certains seuil. Sinon, il emet une onde de choc et subit des dégats
+-pourpre+verte:Achever un ennemie avec une arme Verte le possède et lui confère une arme verte
+-pourpre+bleue: Un retour dans le temps, tous les ennemis ayant 50% pv ou moins sont instantannément possédés
+
+-rose+verte:les armes Verte font des dégats accrus et inflige un knockback
+-rose+bleue:Lors d'un retour dans le temps, crée une onde de choc au point de départ et à la destination
+
+-verte+bleue:Lors d'un retour dans le temps, proccure une armure à Vultos
+
+Utimes:
+-Rouge : Soigne intégralement Vultos ou lui offre une vie après la mort s'il a déjà plus de 90% de ses pv
+-Jaune : Rend Vultos invulnérable pendant quelques secondes
+-Orange : Crée un Giga rayon
+-Azure : Fait tomber un immense rocher d'un grand portail, vultos est incontrolable/invincible durant l'animation
+-brune : Fait léviter tous les ennemis pendant quelques secondes les rendant impuissants
+-pourpre : Controle 50% des ennemies à l'écran qui se batteront jusqu'à leur mort.
+-rose : Les ennemis proches sont repoussés et une bulle infranchissable se génère autour de vultos.
+-verte : Offre une armure de grande résistance et une épée aux dégats accrus
+-bleue : Retourne à l'endroit enregistré et ralenti les annemis de 70% pendant 10 secondes
+
+
+Passif (1 au choix):
+-Rouge : régénère 5% des PV toutes les 10 secondes
+-Jaune : offre un bouclier provisoire de 10% des pv max suite à une parade (valable une fois toutes les 30 secondes)
+-Orange : Faire des dégats avec les laser déboussole les ennemis
+-Azure : Moins de temps nécéssaire entre chaque esquive
+-brune : les immobilisation durent plus longtemps et les fracassements font plus de dégats.
+-pourpre : Les ennemies sont possédés pendant plus longtemps
+-rose : Le knockback des ondes de choc est plus important
+-verte : Chaque arme et armure invoqué dure plus longtemps
+-bleue : Le retour dans le temps conserve les PV
+
+Dague sacrificielle: permet de lancer des sorts plus vite en échange d'un pourcentage de santé max
+

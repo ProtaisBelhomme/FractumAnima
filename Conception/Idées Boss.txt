@@ -1,0 +1,23 @@
+Boss (pourpre) où la musique est jouée par un orchestre qui le rend invincible, tuer chaque musicien permet d'affaiblir l'ennemie, chaque instruments est joué à part dans la musique. lorsque l'un meurt, un instrument disparait et les autres s'emballent.
+
+
+Boss (vert) qui arrache sa barre de vie pour l'utiliser comme arme, chaque coup le touchant réduit la taille de la barre, réduisant donc également sa portée mais augmente sa vitesse.
+
+
+Boss (brun) qui absorbe le décor pour se régénerer et gagner en puissance, faisant s'éfondrer des éléments.
+
+
+Boss (blueue) qui nous parlera lors du combat, nous donnant accidentellement des indices sur la manière de le battre (subtile sans être trop évident), il faudra aller dans les paramètres et trouver un bouton caché le rendant temporairement sesible au attaques.
+
+
+Boss (orange) Chaque attaque nous touchant dérèglera les paramètres, pouvant réduire le ratio écran, la résolution, la qualité des graphismes, le volume, couleur, luminosité etc....
+
+
+Boss (azur) se téléportera au premier plan pour nous cacher la vue avec des éléments. Si on prend trop de temps à le battre, il pourra même ouvrir les paramètres et fermer le jeu.
+
+
+Boss (Jaune) réduira à chauqe parade réussie ou à chaque coup porté le nombre de fps rendant plus difficile à suivre.
+
+
+Boss (rose)une onde de choc peut retentir, inversant nos controles
+

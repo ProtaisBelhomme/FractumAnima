@@ -1,0 +1,17 @@
+Bon nombre de mécaniques hors combats seront présentes permettant d'avoir accès à de nouveaux endroits:
+
+-Rouge : Transformation possible pour se faufiler dans de petis endroits
+-Jaune : Permet une insensibilité au feu, à l'électricité etc... 
+-Orange : Permet de briser des obstacles
+-Azure : Permet de traverser certains murs et de se téléporter à des endroits adaptés grâce à des portails
+-brune : Permet d'inverser la gravité
+-pourpre : Permet de soudoyer des pnj
+-rose : double saut + saut de géant à certains endroits
+-verte : course rapide 
+-bleue : enregister la position et la recharger sera utile dans des énigmes
+
+Chaque donjon offrira une âme suite à la victoire contre un boss, l'allé jusqu'au boss demandera de résoudre des énigmes normales, sans besoin de pouvoir. 
+A l'inverse, le retour jusqu'à la sortie nécessitera l'utilisation de la nouvelle âme afin de comprendre comment elle fonctionne mais aussi avec quelle âme
+elle peut être combinée pour obtenir des effets interessants.
+Aucun tutos n'apparaîtra afin de laissé place à l'imagination et à la recherche du joueur.
+Des indices pourraient toutes fois être donnés si le joueur le demande au compagnon.
