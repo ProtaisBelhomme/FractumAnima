@@ -1,0 +1,4 @@
+-La vidéo "combat" montre rapidement un combat entre Vultos et un ennemi. De nombreux détails sont à changer, il ne s'agit que d'un test
+-La vidéo "déplacement" montre les différent déplacement possible, comme l'equive téléportée, le double saut, la course ou encore un retour à une position définie.
+-la vidéo "terrain" montre l'agecement du décor pour créer un effet de parallaxe
+
