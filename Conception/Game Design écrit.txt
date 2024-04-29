@@ -1,7 +1,18 @@
 Ce jeu fonctionne avec un système d'âmes, chacun offrant un pouvoir lui étant propre. Il est possible de les utiliser seules ou de les combiner.
-Point important : Le but de ce système de combat est de dynamiser et complexifier les combos. Imaginons que le joueur joue à la manette, il sera possible de cliquer sur R1 afin d'afficher un choix multiple entre 2 âmes aléatoires parmi la liste de celles possédées. Il pourrra, grâce au stick analogique droit, en chaisir une qui sera stockée. Il pourra l'utiliser seule grâce à R2 ou cliquer à nouveau sur r1 pour en choisir une 2ème, également de manière aléatoire.
-Un gros problème des jeux récents selon moi (avec des arbres de compétences notamment) est l'acquisition de compétences au fur et à mesure du jeu qui sont de plus en plus puissantes, rendant obsolètes les premières compétences. Le joueur aura souvent tendances à utiliser en boucle son ou ses attaques favorites, réduisant le champ des possibles.
-Ici beaucoup de compétences sont à retenir et le joueur doit s'y faire, il ne pourra pas utiliser la même compétence en boucle à cause de la sélection aléatoire. Donc, lors du premier choix, il devra se demander quelle âme parmis les deux proposées est la plus adaptée (Par exemple : rouge, jaune ou bleue si le joueur n'a plus beaucoup de vie, ou encore brune, orange ou rose s'il y a beaucoup d'ennemis et pour finir verte, azure ou pourpre si il y a un faible nombre d'ennemis puissants). Il pourra ensuite choisir une deuxième âme ajoutant un effet particulier (comme un effet de zone, à cible unique ou centré sur sois-même ; voir plus de détails dans le descriptif ci-dessous).
+Point important : Le but de ce système de combat est de dynamiser et complexifier les combos. Imaginons que le joueur joue à la manette, 
+il sera possible de cliquer sur R1 afin d'afficher un choix multiple entre 2 âmes aléatoires parmi la liste de celles possédées. 
+Il pourrra, grâce au stick analogique droit, en chaisir une qui sera stockée. 
+Il pourra l'utiliser seule grâce à R2 ou cliquer à nouveau sur r1 pour en choisir une 2ème, également de manière aléatoire.
+Un gros problème des jeux récents selon moi (avec des arbres de compétences notamment) est l'acquisition de compétences au fur et à mesure du jeu qui sont de plus en plus puissantes,
+rendant obsolètes les premières compétences. 
+Le joueur aura souvent tendances à utiliser en boucle son ou ses attaques favorites, réduisant le champ des possibles.
+Ici beaucoup de compétences sont à retenir et le joueur doit s'y faire, 
+il ne pourra pas utiliser la même compétence en boucle à cause de la sélection aléatoire. 
+Donc, lors du premier choix, il devra se demander quelle âme parmis les deux proposées est la plus adaptée 
+(Par exemple : rouge, jaune ou bleue si le joueur n'a plus beaucoup de vie, ou encore brune, 
+orange ou rose s'il y a beaucoup d'ennemis et pour finir verte, azure ou pourpre si il y a un faible nombre d'ennemis puissants). 
+Il pourra ensuite choisir une deuxième âme ajoutant un effet particulier (comme un effet de zone, 
+à cible unique ou centré sur sois-même ; voir plus de détails dans le descriptif ci-dessous).
 Cela permettra donc d'avoir un champ des possibles très étendu en échange d'un choix de compétence à moitié basé sur l'aléatoire).
 Un cooldown sera placé sur chaque âme utilisée pour éviter de tomber 2 fois d'affilée dessus en un temps trop court.
 
