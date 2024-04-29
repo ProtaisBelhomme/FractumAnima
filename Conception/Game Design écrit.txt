@@ -59,12 +59,12 @@ Combo:
 -Azure+bleue:Permet une fois par minute de faire une esquive magique nous plongeant dans un monde parallèle où notre personnage ne peut plus infliger ou subir de dégat
 
 
--brune+pourpre:Lorsque des possédés reprennent la raison, ils sont balancé sur d'autres ennemis
+-brune+pourpre:Lorsque des possédés reprennent la raison, ils sont balancés sur d'autres ennemis
 -brune+rose:Lorsqu'un ennemi est fracassé au sol, il libère une onde de choc envoyant les ennemis en l'air
 -brune+verte:Fait sortir des lames de terre sur une certaine distance
 -brune+bleue:Lors d'un retour dans le temps, tous les ennemis sur le trajet sont fracassés au sol
 
--pourpre+rose:A la fin d'une possession, le crâne de l'ennemie explose si ses pv sont sous un certains seuil. Sinon, il emet une onde de choc et subit des dégats
+-pourpre+rose:A la fin d'une possession, le crâne de l'ennemi explose si ses pv sont sous un certains seuil. Sinon, il emet une onde de choc et subit des dégats
 -pourpre+verte:Achever un ennemie avec une arme Verte le possède et lui confère une arme verte
 -pourpre+bleue: Un retour dans le temps, tous les ennemis ayant 50% pv ou moins sont instantannément possédés
 
